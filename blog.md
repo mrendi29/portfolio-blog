@@ -1,8 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: Blog | Endi Caushi
 pagination:
   enabled: true
 ---
-
