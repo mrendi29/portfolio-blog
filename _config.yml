@@ -15,6 +15,7 @@ plugins:
   - sprockets
   - autoprefixer-rails
   - jemoji
+  - jekyll-autolink_email
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
